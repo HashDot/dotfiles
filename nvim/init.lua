@@ -1,0 +1,8 @@
+require('base')
+require('highlights')
+require('maps')
+require('plugins')
+require('line-number')
+require('indent')
+-- require('lualine')
+--require('theme')
