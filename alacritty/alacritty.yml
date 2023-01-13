@@ -32,12 +32,12 @@ colors:
     - { index: 17, color: '0xdb4b4b' }
 font:
   normal:
-    family: Dank Mono
+    family: DankMono Nerd Font
     style: Regular
   bold:
-    family: Dank Mono
+    family: DankMono Nerd Font
     style: bold
   italic:
-    family: Dank Mono
+    family: DankMono Nerd Font
     style: Italic
   size: 10.0
